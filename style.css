@@ -1,0 +1,19 @@
+#map{
+    height: 700px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin-top: 5%;
+}
+.container{
+    width: 80%;
+    margin-top: 2%;
+   
+}
+
+.items_registro input, select{
+    margin-top: 2%;
+}
+.items_registro label{
+    margin-top: 1.4%;
+}
